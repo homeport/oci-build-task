@@ -1,2 +1,3 @@
-# oci-build-task
-Wrapper for https://github.com/concourse/oci-build-task
+# OCI Build Task
+
+Wrapper for [`concourse/oci-build-task`](https://github.com/concourse/oci-build-task).
